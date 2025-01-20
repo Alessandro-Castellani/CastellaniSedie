@@ -1,0 +1,79 @@
+Thread-1
+Thread-3
+Thread-5
+Thread-7
+Thread-9
+Thread-11
+Thread-13
+Thread-15
+Thread-17
+Thread-19
+Thread-21
+Thread-23
+Thread-25
+Thread-27
+Thread-29
+Thread-31
+Thread Thread-7 ha vinto!
+Thread Thread-21 ha vinto!
+Thread Thread-27 ha vinto!
+Thread Thread-23 ha vinto!
+Thread Thread-9 ha vinto!
+Thread Thread-25 ha vinto!
+Thread Thread-29 ha vinto!
+Thread Thread-19 ha vinto!
+Thread Thread-5 ha vinto!
+Thread Thread-1 ha vinto!
+Thread Thread-31 ha vinto!
+Thread Thread-3 ha vinto!
+Thread Thread-11 ha vinto!
+Thread Thread-13 ha vinto!
+Thread Thread-17 ha vinto!
+Thread Thread-15 ha perso :((((
+Thread-1
+Thread-3
+Thread-5
+Thread-7
+Thread-9
+Thread-11
+Thread-13
+Thread-15
+Thread-17
+Thread-19
+Thread-21
+Thread-23
+Thread-25
+Thread-27
+Thread-29
+Thread-31
+Thread Thread-13 ha vinto!
+Thread Thread-3 ha vinto!
+Thread Thread-27 ha vinto!
+Thread Thread-19 ha vinto!
+Thread Thread-9 ha vinto!
+Thread Thread-17 ha vinto!
+Thread Thread-15 ha vinto!
+Thread Thread-1 ha vinto!
+Thread Thread-23 ha vinto!
+Thread Thread-31 ha vinto!
+Thread Thread-25 ha vinto!
+Thread Thread-7 ha vinto!
+Thread Thread-5 ha vinto!
+Thread Thread-21 ha vinto!
+Thread Thread-11 ha vinto!
+Thread Thread-29 ha perso :((((
+Thread-1
+Thread-3
+Thread-5
+Thread-7
+Thread-9
+Thread-11
+Thread-13
+Thread Thread-1 ha vinto!
+Thread Thread-11 ha vinto!
+Thread Thread-13 ha vinto!
+Thread Thread-9 ha vinto!
+Thread Thread-7 ha vinto!
+Thread Thread-5 ha vinto!
+Thread Thread-3 ha perso :((((
+
