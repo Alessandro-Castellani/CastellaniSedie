@@ -33,7 +33,7 @@ public class Scrittore implements Runnable{
     }
 
     public void scrivi(){
-        BufferedWriter br = null;
+        BufferedWriter br = null; // + efficiente. + veloce e - errori
         
         try {
             br = new BufferedWriter(new FileWriter(nomeFile, true));
