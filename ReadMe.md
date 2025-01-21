@@ -1,8 +1,10 @@
 **Project Title**
 TestGiocoSedie Castellani
 
+
 **Description**
 An application that simulates a chair game.  
+
 
 **Getting Started**
 
@@ -12,31 +14,15 @@ The program is to be installed by clicking on the shared link and selecting the 
 **Executing program**
 The program can be runned with several IDEs. For instance, the IDE I used to code the program is NetBeans, for which the application is the most optimized. 
 
-**Help**
-
-
-command to run if program contains helper info
-Authors
+**Authors**
 Alessandro Castellani 
 
-Contributors names and contact info
-Prof. Monica Ciuchetti (for the code Samples I took to implement the class Writer.java)
 
-
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
 License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-Acknowledgments
-Inspiration, code snippets, etc.
+**Acknowledgments**
 
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+Prof. Monica Ciuchetti (for the code Samples I took to implement the class Writer.java) monica.ciuhetti@risikamente.com
+DomPizzie's template for the ReadMe.md file 
+
