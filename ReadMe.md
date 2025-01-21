@@ -19,7 +19,7 @@ Alessandro Castellani
 <br>
 
 <h2>License</h2> <br>
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is under Copyright. 
 <br>
 
 <h2>Acknowledgments </h2> <br>
