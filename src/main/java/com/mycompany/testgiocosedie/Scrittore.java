@@ -39,7 +39,7 @@ public class Scrittore implements Runnable{
             br = new BufferedWriter(new FileWriter(nomeFile, true)); // il true serve per la funzione di append
             br.write(messaggio);
             br.write("\n\r");
-            br.flush();         
+            br.flush(); // senza questo comando, il salvataggio sarebbe stato effettuato al br.close()        
         } catch (IOException ex) {
             Logger.getLogger(Scrittore.class.getName()).log(Level.SEVERE, null, ex);
         }
