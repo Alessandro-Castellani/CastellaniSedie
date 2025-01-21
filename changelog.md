@@ -18,7 +18,7 @@ Changed
 
 Fixed
 - Some incongruences in the code, mostly related to the package.
-- 
+- Some incongruences in Writing class in order to make it fit in the package. 
 
 [1.2.4] - 2017-03-15
 Here we would have the update steps for 1.2.4 for people to follow.
