@@ -36,7 +36,7 @@ public class Scrittore implements Runnable{
         BufferedWriter br = null; // + efficiente. + veloce e - errori
         
         try {
-            br = new BufferedWriter(new FileWriter(nomeFile, true));
+            br = new BufferedWriter(new FileWriter(nomeFile, true)); // il true serve per la funzione di append
             br.write(messaggio);
             br.write("\n\r");
             br.flush();         
