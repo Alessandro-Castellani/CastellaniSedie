@@ -1,7 +1,7 @@
 **Project Title**
 TestGiocoSedie Castellani
-**
-Description**
+
+**Description**
 An application that simulates a chair game.  
 
 **Getting Started**
