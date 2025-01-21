@@ -9,11 +9,12 @@ Here we write upgrading notes for brands. It's a team effort to make them as str
 Added
 - Added a UML Class Diagram.
 - Added a file with the responses to the questions asked.
-- 
+- Added a zip package with the full code requested.
+- Added comments in the code.
+- Added code to implement the requested portions of the code. 
 
 Changed
 - The code to 
-
 
 Fixed
 - Some incongruences in the code, mostly related to the package.
