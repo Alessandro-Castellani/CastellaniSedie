@@ -30,7 +30,7 @@ public class TestGiocoSedie {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
             System.out.print("Inserisci il numero di partecipanti: ");
             numeroPartecipanti = Integer.parseInt(reader.readLine());
-        } catch (IOException | NumberFormatException e) {
+        } catch (IOException e) {
             logger.log(Level.SEVERE, "Errore durante l'inserimento del numero di partecipanti", e);
             return;
         }
