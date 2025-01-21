@@ -1,25 +1,26 @@
 **Project Title**
 TestGiocoSedie Castellani
-
+<br>
 
 **Description**
 An application that simulates a chair game.  
-
-
-**Getting Started**
+<br>
 
 **Installing**
 The program is to be installed by clicking on the shared link and selecting the resources desired, since it is composed by multiple files, such as Questions, the Package containing the code, the UML class diagram, etc. etc.
+<br>
 
 **Executing program**
 The program can be runned with several IDEs. For instance, the IDE I used to code the program is NetBeans, for which the application is the most optimized. 
+<br>
 
 **Authors**
 Alessandro Castellani 
+<br>
 
-
-License
+**License**
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+<br>
 
 **Acknowledgments**
 
