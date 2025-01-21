@@ -7,10 +7,18 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 Here we write upgrading notes for brands. It's a team effort to make them as straightforward as possible.
 
 Added
-
+- Added a UML Class Diagram.
+- Added a file with the responses to the questions asked.
+- 
 
 Changed
+- The code to 
+
+
 Fixed
+- Some incongruences in the code, mostly related to the package.
+- 
+
 [1.2.4] - 2017-03-15
 Here we would have the update steps for 1.2.4 for people to follow.
 
