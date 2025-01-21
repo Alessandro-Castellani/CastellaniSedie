@@ -14,7 +14,7 @@ Added
 - Added code to implement the requested portions of the code. 
 
 Changed
-- The code to 
+- The code given in Moodle in order to make it fit with the package. 
 
 Fixed
 - Some incongruences in the code, mostly related to the package.
