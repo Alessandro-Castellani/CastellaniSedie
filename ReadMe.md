@@ -1,20 +1,18 @@
-Project Title
+**Project Title**
 TestGiocoSedie Castellani
-
-Description
+**
+Description**
 An application that simulates a chair game.  
 
-Getting Started
-Dependencies
-It requires 
+**Getting Started**
 
-Installing
+**Installing**
 The program is to be installed by clicking on the shared link and selecting the resources desired, since it is composed by multiple files, such as Questions, the Package containing the code, the UML class diagram, etc. etc.
 
-Executing program
+**Executing program**
 The program can be runned with several IDEs. For instance, the IDE I used to code the program is NetBeans, for which the application is the most optimized. 
 
-Help
+**Help**
 
 
 command to run if program contains helper info
