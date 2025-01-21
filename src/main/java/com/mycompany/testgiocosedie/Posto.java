@@ -11,7 +11,7 @@ class Posto {
         return !occupato;
     }
 
-    public synchronized boolean occupa() {
+    public synchronized boolean occupa() { // gestisce da solo la mutua esclusione, evocando implicitamente NotifyAll()  
         if (!occupato){
             occupato = true;
             return true;
