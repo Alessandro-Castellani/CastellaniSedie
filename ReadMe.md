@@ -24,5 +24,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 <h2>Acknowledgments </h2> <br>
 <ul> <li>Prof. Monica Ciuchetti (for the code Samples I took to implement the class Writer.java) --> monica.ciuhetti@risikamente.com </li><br>
-<ul> <li>DomPizzie's template for the ReadMe.md file </li></ul> 
+<li>DomPizzie's template for the ReadMe.md file </li></ul> 
 
